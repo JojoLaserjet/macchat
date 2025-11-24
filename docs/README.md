@@ -5,7 +5,7 @@
 
 MacChat is an evolution of ChakChat, designed from the ground up with uncompromising security, privacy, and decentralization. Built for those who refuse to trust central authorities with their communications.
 
-**Creator:** [@JojoLaserjet](https://github.com/JojoLaserjet)
+**Creator:** [@Bxnnet!](https://github.com/xbxnnet)
 
 ---
 
@@ -325,7 +325,7 @@ Alice wants to chat with Bob for the first time:
 
 ```bash
 # Clone the repository
-git clone https://github.com/JojoLaserjet/macchat.git
+git clone https://github.com/xbxnnet/macchat.git
 cd macchat
 
 # Generate keys and certificates (for development)
@@ -423,7 +423,7 @@ MacChat is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) for det
 
 ## 📞 Contact
 
-- **Creator:** [@JojoLaserjet](https://github.com/JojoLaserjet)
+- **Creator:** [@Bxnnet!](https://github.com/xbxnnet)
 - **Discord:** [#xbxnnet_]
 
 ---
@@ -446,6 +446,6 @@ If you find MacChat useful, please consider starring the repository! It helps us
 
 ---
 
-**Built with 🔐 by [@JojoLaserjet](https://github.com/JojoLaserjet)**
+**Built with 🔐 by [@Bxnnet!](https://github.com/xbxnnet)**
 
 *"Privacy is not a crime. Security is not negotiable."*
